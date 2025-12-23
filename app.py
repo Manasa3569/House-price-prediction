@@ -9,7 +9,7 @@ from sklearn.linear_model import LinearRegression
 # ---------------------------------
 # APP TITLE
 # ---------------------------------
-st.title("🏠 Hyderabad House Price Prediction")
+st.title("MANASA 🏠 Hyderabad House Price Prediction")
 
 # ---------------------------------
 # LOAD DATA
@@ -99,3 +99,4 @@ if st.button("Predict House Price"):
     st.success(
         f"🏷️ Predicted House Price: ₹ {predicted_price[0]:,.2f}"
     )
+
