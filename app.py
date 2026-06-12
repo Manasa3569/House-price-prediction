@@ -9,7 +9,7 @@ from sklearn.linear_model import LinearRegression
 # ---------------------------------
 # APP TITLE
 # ---------------------------------
-st.title("MANASA 🏠 Hyderabad House Price Prediction")
+st.title("MANASA 🏠 Hyderabad House rent Price Prediction")
 
 # ---------------------------------
 # LOAD DATA
